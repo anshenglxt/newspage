@@ -1,0 +1,20 @@
+
+.header, .focus,.get{text-align: center;}
+.left{text-align: left !important;}
+.g-t{text-align: center;}
+.g-t span{font-weight: bold;color:rgb(217, 33, 66);}
+.blue{color: rgb(0, 82, 255);font-weight: bold;}
+.zi{color:rgb(122, 79, 214);font-weight: bold;}
+.f-t{text-align: center;font-weight: bold;color:rgb(217, 33, 66);font-size: 20px;}
+.msn{text-align: center;}
+.f-a{text-align:left !important;}
+.red{color:rgb(217, 33, 66);font-weight: bold; }
+.t-1{margin-top:0px;}
+.border{border: 1px solid red; width: 180px;height: 40px;line-height: 40px;color:white;background: red;font-weight: bold;border-radius: 10px;box-shadow:2px 3px 2px #888888;margin:0 auto;}
+.border a{display: block;text-decoration: none;color: white;}
+.header{margin-top:40px;}
+.top{margin-top: 20px;text-align: center;}
+.method img{display: block;margin:0 auto;}
+.method{margin-top: 40px;display: none;}
+.method p{text-align: left;font-weight: bold;color: red;}
+.bottom{padding-top: 30px;font-size: 14px;}
